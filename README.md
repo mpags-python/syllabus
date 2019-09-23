@@ -1,4 +1,4 @@
 syllabus
 ========
 
-See [this page](http://stevenbamford.com/teaching/python_mpags_2015/) for the syllabus for the MPAGS Python course.
+See [this page](https://mpags-python.github.io) for the syllabus for my MPAGS/MSc Python module.
